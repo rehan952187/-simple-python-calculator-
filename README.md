@@ -1,2 +1,26 @@
-# -simple-python-calculator-
-This is a simple-pythgon-calculator project
+# Simple Python Calculator
+
+
+
+A terminal-based calculator built using Python. It performs basic arithmetic operations like:
+
+
+
+-Addition
+
+-Subtraction
+
+-Multiplication
+
+-Division
+
+
+
+## How to Run
+
+
+
+```bash
+
+python calculator.py
+
